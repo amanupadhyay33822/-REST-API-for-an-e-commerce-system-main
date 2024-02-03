@@ -19,7 +19,7 @@ https://www.postman.com/beingkamikaze/workspace/ecommapiworkspace/collection/185
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/e-commerce-api.git
+   git clone https://github.com/amanupadhyay33822/-REST-API-for-an-e-commerce-system-main.git
 2.Change into the project directory:
    cd e-commerce-api
 3. RUN NPM install
